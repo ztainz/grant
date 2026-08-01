@@ -363,7 +363,7 @@ background-color: rgb(52, 4, 64);
     <div class="A">
         <font color="white">Till Today</font><b></br>
                 <span id="countdowntimer" style="color:yellow;">4548</span></b></br>
-        <font color="white">Peller and Jarvis Fans have Received ₦15,000 Wedding Gift</font>
+        <font color="white">Peller and Jarvis Fans have Received 20GB Data Wedding Appreciation Gift</font>
         <script type="text/javascript">
             var timeleft = 4548;
                      var downloadTimer = setInterval(function(){
